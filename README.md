@@ -3,6 +3,8 @@ Virtualhost Manage Script
 
 Bash Script to allow create or delete apache/nginx virtual hosts on Ubuntu on a quick way.
 
+# I changed it for Laravel Project only. It just work with Laravel vHost Only !!!!!!!!!!!!!
+
 ## Installation ##
 
 1. Download the script
